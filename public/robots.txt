@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pictureprefect.replit.app/sitemap.xml
